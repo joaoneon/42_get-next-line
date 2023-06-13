@@ -108,7 +108,7 @@ Implement a function that reads one line at a time from multiple files simultane
   </p>
   <ul>
   <li>
-  - $> -cc -Wall -Wextra -Werror -D BUFFER_SIZE=n <files.c>
+  - $> -cc -Wall -Wextra -Werror -D BUFFER_SIZE=n <files_bonus.c>
   </ul>
   </li>
     
